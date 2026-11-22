@@ -18,5 +18,5 @@ int main()
         sort(a, a + n, greater<int>());
         cout<<a[0]*n<<"\n";
     }
-
+ return 0;
 }
